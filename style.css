@@ -1,0 +1,24 @@
+.top {
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(75, 136, 75);
+    font-size: 100px;
+    text-align: center;
+}
+* {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+.rlist .button {
+    color: rgb(255, 255, 255);
+    background-color: light rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.rlist {
+    text-align: center;
+}
+.p {
+    text-align: center;
+}
